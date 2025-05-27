@@ -61,6 +61,5 @@ int main(){
     printf("The dequeue %d\n",dequeue(&q));
     printf("The dequeue %d\n",dequeue(&q));
     printf("The dequeue %d\n",dequeue(&q));
-    printf("The dequeue %d\n",dequeue(&q));
    return 0;
 }
