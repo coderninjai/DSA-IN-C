@@ -57,9 +57,9 @@ int main()
 
     int A[] = {2, 3, 4, 43, 42, 5, 76, 45};
     int n = 8;
-    PrintArray(A,n);
+    PrintArray(A, n);
     QuickSort(A, 0, n - 1);
-    PrintArray(A,n);
+    PrintArray(A, n);
 
     return 0;
 }
